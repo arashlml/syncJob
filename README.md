@@ -1,6 +1,3 @@
-باشه، این یک README خیلی مینیمال فقط برای run کردن پروژه:
-
-````md
 # Run Project
 
 ## 1. Start PostgreSQL (Docker)
@@ -62,4 +59,4 @@ curl.exe http://localhost:8080/users/<id>
 ```
 
 ```
-```
+
