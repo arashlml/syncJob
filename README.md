@@ -39,7 +39,7 @@ $env:DB_SSLMODE="disable"
 ## 4. Run API
 
 ```powershell
-go run .\cmd\api
+go run .\cmd\api\main.go
 ```
 
 ---
@@ -47,7 +47,7 @@ go run .\cmd\api
 ## 5. Run Sync Job
 
 ```powershell
-go run .\cmd\sync
+go run .\cmd\sync\main.go
 ```
 
 ---
